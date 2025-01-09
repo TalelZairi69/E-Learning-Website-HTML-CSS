@@ -5,6 +5,11 @@
     --light: #f0e4de;
     --dark: #181d38;
 }
+/* Global cursor for the entire page */
+/* Apply the same cursor globally */
+* {
+    cursor: url('/E-Learning-Website-HTML-CSS/FrontEnd/img/navigate.png'), auto;
+}
 
 .btn {
     background-color: #fb873f;
